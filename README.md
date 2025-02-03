@@ -23,7 +23,7 @@ I'm a Computer Science undergrad at [ICMC-USP](https://www.icmc.usp.br/), São C
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helio-nogueira-cardoso&layout=compact&theme=tokyonight)
 
 ### 🌱 Currently Learning
-- **Frameworks:** Angular, Spark
+- **Frameworks:** Spring Framework
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/helioncardoso/)
